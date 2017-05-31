@@ -1,0 +1,32 @@
+
+body{
+   
+      margin-top: 20px;  
+    text-align:center;
+    background-color:darkolivegreen
+        
+        
+    
+    
+}
+
+img{
+    margin-top: 40px;
+    border: 5px darkred solid; 
+    border-radius: 40px;
+    
+}
+
+ul{
+    
+    padding-left: 650px;
+    text-align: left
+    
+}
+
+ol{
+    
+    padding-left: 380px;
+    text-align: left
+}
+
